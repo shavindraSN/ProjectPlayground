@@ -12,3 +12,11 @@ function MUL($x,$y) {
     $mul=$x*$y;
     return $mul;
 }
+function SUB($x,$y) {
+    $sub=$x-$y;
+    return $sub;
+}
+function DIV($x,$y) {
+    $div=$x/$y;
+    return $div;
+}
